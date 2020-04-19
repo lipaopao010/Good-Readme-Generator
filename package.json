@@ -1,0 +1,24 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lipaopao010)",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipaopao010/Good-Readme-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipaopao010/Good-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/lipaopao010/Good-Readme-Generator#readme"
+}
