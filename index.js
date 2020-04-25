@@ -71,7 +71,7 @@ async function generateReadme(answers){
     let usage = "";
     if(answers.Usage !== ""){
         usage = `## Usage
-        ${answers.Usage}`
+        \r${answers.Usage}`
     }
 
     let title = "";
